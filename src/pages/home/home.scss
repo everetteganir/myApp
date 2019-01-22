@@ -1,3 +1,11 @@
 page-home {
+  background: color($colors,primary);
+
+  .bg{
+    background: linear-gradient(to bottom, #B7F0C1 0%, #fff);
+      justify-content: center;
+      align-items: center!important;
+  }
+
 
 }
